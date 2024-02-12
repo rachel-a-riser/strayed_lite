@@ -1,5 +1,7 @@
 # strayed_lite
- 
+
+Brief demonstration at https://www.canva.com/design/DAFt-DaKITM/lbWHyc3hgbNscNn20SPdbg/view?utm_content=DAFt-DaKITM&utm_campaign=designshare&utm_medium=link&utm_source=editor
+ <br></br>
  Strayed: A Better Way to Find Your Lost Pet | React, Flask, MariaDB
 
  • Designed a centralized solution for areas experiencing issues with lost and stray dog population, motivated by the
