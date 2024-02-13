@@ -11,7 +11,7 @@ Brief demonstration at https://www.canva.com/design/DAFt-DaKITM/lbWHyc3hgbNscNn2
  and membership features<br></br>
  • Built custom Strayed API with Flask, using Axios to send and receive JSON data<br></br>
  • Developed AI and computer vision model with transfer learning from Inceptionv3 and YOLOv7 to match images
- containing the same individual dog<<br></br>
+ containing the same individual dog<br></br>
  • Implemented geocoding with MapBox to add user-submitted images to an interactive community map developed
  with LeafletJS<br></br>
  • Streamlined the matching process to send users automatic updates with Flask-MaiL
