@@ -13,4 +13,4 @@ Brief demonstration at https://www.canva.com/design/DAFt-DaKITM/lbWHyc3hgbNscNn2
  containing the same individual dog
  • Implemented geocoding with MapBox to add user-submitted images to an interactive community map developed
  with LeafletJS
- • Streamlined the matching process to send users automatic updates with Flask-Mai
+ • Streamlined the matching process to send users automatic updates with Flask-MaiL
