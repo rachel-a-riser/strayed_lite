@@ -3,6 +3,7 @@
 Brief demonstration at https://www.canva.com/design/DAFt-DaKITM/lbWHyc3hgbNscNn20SPdbg/view?utm_content=DAFt-DaKITM&utm_campaign=designshare&utm_medium=link&utm_source=editor
  <br></br>
  The parent components making up the 3 main "pages" in the routing layer are HomePage, MapPage, and StandardDash<br></br>
+API routes can be found in SAPI<br></br>
  Strayed: A Better Way to Find Your Lost Pet | React, Flask, MariaDB
  <br></br>
  • Designed a centralized solution for areas experiencing issues with lost and stray dog population, motivated by the
